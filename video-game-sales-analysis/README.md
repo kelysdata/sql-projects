@@ -1,3 +1,5 @@
+![Video Game Project](video_game.jpg)
+
 # Video Game Sales Analysis
 
 SQL project completed using DataCamp/DataLab.
